@@ -147,6 +147,3 @@ Provides a **secure user interface** for registration and login. Credentials are
 
 ---
 
-## License
-
-This project was developed as an academic/coursework project. Please refer to your institution's academic integrity guidelines before reusing any part of this codebase.
